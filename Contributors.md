@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Pramod Aswani] (https://github.com/Pramod-Aswani1012)
 - [Kennedy Muchiri] (https://github.com/muchiri08)
 - [5.H.4.D.0.W](https://github.com/QuintusJoyal) 🖖
 - [Hugo Serra] (https://github.com/NoObX17)
